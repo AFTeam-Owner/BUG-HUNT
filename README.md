@@ -50,7 +50,7 @@
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/AFTeam-Owner/BUG-HUNT.git
+git clone https://github.com/AFTeam-Owner/BUG-HUNTER.git
 cd bug-hunter-pro
 
 pip3 install -r requirements.txt
