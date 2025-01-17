@@ -4,7 +4,7 @@
   <h1>🔍 Bug Hunter Pro</h1>
   
   <p>
-    <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="version 1.0.0">
+    <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="version 2.0.0">
     <img src="https://img.shields.io/badge/python-3.7+-green.svg" alt="python 3.7+">
     <img src="https://img.shields.io/badge/license-MIT-orange.svg" alt="license MIT">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome">
